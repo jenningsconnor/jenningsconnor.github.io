@@ -1,13 +1,9 @@
-# Title of your page
+# Connor Jennings Data Analytics Portfolio
 
 > Introduction
 
-dhafdhsfkjdhsakfjdhsajflhdskaj
-fdhkajfhdsakfhdksajfhdsa
-fdhkasfhdslkafhldsa
+Introduction will go here
 
 > My interest and experience in Data Analytics
 
-dfjsahfdksjahfdksahf
-sfhdskjhfdskjahfdkslaf
-dsafhkdsjahfkdlsafdlskjahfdklsahfkdsa
+Given that
