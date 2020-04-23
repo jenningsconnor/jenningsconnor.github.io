@@ -26,5 +26,5 @@ Custom games, by design, do not have a match making system that other match type
 
 >Links
 
-[GitHub Repository](https://github.com/jenningsconnor/PUBG-WinPerc)
+[GitHub Repository](https://github.com/jenningsconnor/PUBG-WinPerc) <br>
 [Kaggle Dataset](https://www.kaggle.com/c/pubg-finish-placement-prediction/data)
