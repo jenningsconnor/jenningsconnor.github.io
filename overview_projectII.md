@@ -2,17 +2,11 @@
 
 > Description of the project
 
-fdhafkdjsa
-fhdakfhdks
-fdhsakfhdsk
+During the years 2003 and 2015...
 
 > Key insights
 
-fdhafkdjsa
-fhdakfhdks
-fdhsakfhdsk
-
-As shown in the below graph - all game types...  
+As shown below...  
 
 <br>  
 
