@@ -23,3 +23,6 @@ For the most part, each match type shows either a noticeably similar or even str
 <br>
 
 Custom games, by design, do not have a match making system that other match types have. This means that how players perform in a custom game may not truly be indicative of their overall win percentage. Players in custom games can potentially be of any skill level, whereas in most matchmaking matches there's some semblance of a "normal distribution." That said, in no way does this mean that custom game data is completely irrelevant and should be ignored. Professional teams compete against each other in custom-made games.
+
+>Links
+[GitHub Repository](https://github.com/jenningsconnor/PUBG-WinPerc)
