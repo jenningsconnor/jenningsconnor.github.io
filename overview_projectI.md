@@ -20,8 +20,6 @@ The model made with the above methods produced an r2 value of .79 (rounded up fr
 
 For the most part, each match type shows either a noticeably similar or even stronger relationship than the aggregate set. Even event-type matches, the "flare" and "crash" modes, show a remarkable similarity to other match types. The only category of matches with dissimilar r2 values are all custom-game matches - that is, each match type with the normal precursor. While one might be temtped to blame the weaker relationship on a lack of data compared to non-event, non-custom match types, the true cause is the lack of matchmaking. 
 
-<br>
-
 Custom games, by design, do not have a match making system that other match types have. This means that how players perform in a custom game may not truly be indicative of their overall win percentage. Players in custom games can potentially be of any skill level, whereas in most matchmaking matches there's some semblance of a "normal distribution." That said, in no way does this mean that custom game data is completely irrelevant and should be ignored. Professional teams compete against each other in custom-made games.
 
 >Links
