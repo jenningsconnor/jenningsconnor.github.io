@@ -22,4 +22,4 @@ As you can see...
 
 >Links
 
-[GitHub Repository](https://github.com/jenningsconnor/PUBG-WinPerc) <br>
+[GitHub Repository](https://github.com/jenningsconnor/AEMR_power_companies) <br>
