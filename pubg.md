@@ -1,4 +1,4 @@
-# Springboard Capstone Project - PUBG
+# Springboard Capstone Project - PUBG Player Performance Analysis
 
 > Project Overview
 
