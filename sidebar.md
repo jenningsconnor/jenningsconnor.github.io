@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Springboard Capstone Project - PUBG](/overview_projectI.md)
+* [Springboard Capstone Project - PUBG](/pubg.md)
