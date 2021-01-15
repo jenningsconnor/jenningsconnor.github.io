@@ -20,6 +20,6 @@ Below are insights from my project...
 
 As you can see...
 
->Links
+> Links
 
 [GitHub Repository](https://github.com/jenningsconnor/AEMR_power_companies) <br>
