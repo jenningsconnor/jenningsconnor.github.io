@@ -12,9 +12,9 @@ The bulk of my exploration for this project happened in SQL. All code that I use
 
 The short version is this: the AEMR should punish companies based on total energy lost. Doing so based on lengths of outages or average energy lost targets companies that aren't responsible for the greatest amount of energy lost. For those interested in a more detailed breakdown, keep scrolling.
 
-<br>
+Before we even get to the breakdown by companies, we should discuss the breakdown of energy lost by outage type. Of the four categories, forced outages was by far the most responsible at 60.2%. Scheduled outages were responsible for 25.7% of all energy lost. It would be wise to ensure going forward that scheduled outages do not result in an increase in power lost in the future.
 
-Before we even get to the breakdown by companies, we should discuss the breakdown of energy lost by outage type. Of the four categories, forced outages was by far the most responsible at 60.2%. Scheduled outages were responsible for 25.7% of all energy lost. 
+As for the particular categories, below is a dashboard of all the companies with the total amount of energy lost during the two years. 
 
 <br>  
 
@@ -22,7 +22,13 @@ Before we even get to the breakdown by companies, we should discuss the breakdow
 
 <br>
 
-As you can see...
+As you can see AURICON, GW, MELK, and PMC are the four main culprits concerning total energy lost. The AMER should dole out the harshest penalties to these four companies.  
+
+Now, compare the above with the three dashboards below: average energy lost, total outage duration, and average outage duration.
+
+<br>
+
+Notice how in other categories, companies that are at the top for total energy lost aren't always at the top for other categories. Because of this, it is essential for the AEMR to investigate companies attempting to skirt penalties by potentially having shorter outage lengths but lose more energy. 
 
 > Links
 
