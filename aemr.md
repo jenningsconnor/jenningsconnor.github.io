@@ -18,13 +18,25 @@ As for the particular categories, below is a dashboard of all the companies with
 
 <br>  
 
-![pubg_analysis_reg](graph1pubg.png)
+![AEMR1](AEMR_total_eng.png)
 
 <br>
 
 As you can see AURICON, GW, MELK, and PMC are the four main culprits concerning total energy lost. The AMER should dole out the harshest penalties to these four companies.  
 
 Now, compare the above with the three dashboards below: average energy lost, total outage duration, and average outage duration.
+
+<br>
+
+![AEMR2](AEMR_avg_eng.png)
+
+<br>
+
+![AEMR3](AEMR_total_time.png)
+
+<br>
+
+![AEMR4](AEMR_avg_time.png)
 
 <br>
 
