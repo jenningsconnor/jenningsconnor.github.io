@@ -10,7 +10,11 @@ Given the impact of the Covid-19 pandemic and the challenges it has presented th
 
 I used my own MySQL for the bulk of the exploration and transformation of the data. All code can be found here (there's also a repository link at the end of this document). Once I uploaded the data into MySQL, I did a quick examination to see what the data showed. I immediately noticed a somewhat large red flag; stay lengths are divided into ranges (0-10, 11-20, 21-30, etc.), making what could be a numerical variable a categorical one. As soon as I saw this, I had to change my approach completely. I could no longer calculate average stay length based on various factors combining together (age range, hospital, patient's city, number of extra rooms available). Instead, I decided to transform the data so that cases would be group by a given category and then have the stay length as a subcategroy further dividing the data. Essentially, my output for my code looked like this:
 
-(insert photo)
+<br>
+
+![code_hosp_stay](code_example.png)
+
+<br>
 
 Though I could have created a regression equation by changing all the categories into numerical values, I decided against this. Part of this, admittedly, was because I wanted to use SQL for a project and not rely on Python. However, I also believe given the limits of this dataset it would be best to keep it as is and count up the raw numbers of cases divided by their respective categories. Not only would this allow someone to determine the percentages of which cases fall into a given category, it would also allow someone to see which percentage of cases within each category have higher or lower stay lengths.  
 
